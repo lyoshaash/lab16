@@ -26,6 +26,7 @@
 ![результат 16](lab16res1.png)
 
 ## Список использованных источников
-[лаба](https://evil-teacher.on.fleek.co/prog_pm/term2/lab16/)
-[статья которая помогла](https://habr.com/ru/articles/513218/)
+[лаба](https://evil-teacher.on.fleek.co/prog_pm/term2/lab16/)   
+
+[статья которая помогла](https://habr.com/ru/articles/513218/)   
 
